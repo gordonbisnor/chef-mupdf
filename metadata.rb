@@ -3,7 +3,7 @@ maintainer "Geoff Hayes"
 maintainer_email "hayesgm@gmail.com"
 license "MIT"
 description "Installs mupdf"
-version "1.0"
+version "1.1"
 
 recipe "mupdf", "Installs mupdf from source"
 
