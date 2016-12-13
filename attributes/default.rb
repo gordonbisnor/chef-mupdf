@@ -6,4 +6,4 @@ else
 	default[:mupdf][:arch] = 'i386'
 end
 
-default[:mupdf][:checksum] = 'aacc1f36b9180f562022ef1ab3439b009369d944364f3cff8a2a898834e3a836'
+default[:mupdf][:checksum] = '81df129da524409ff7638c1317f63ad5b41362f3399fd9dcd843f8ab339a0d75'
