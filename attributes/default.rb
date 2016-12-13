@@ -1,4 +1,4 @@
-default[:mupdf][:version] = '1.10'
+default[:mupdf][:version] = '1.6'
 
 if node[:kernel][:machine] == 'x86_64'
 	default[:mupdf][:arch] = 'amd64'
